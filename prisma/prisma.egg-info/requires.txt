@@ -1,0 +1,6 @@
+gym
+networkx
+numpy
+protobuf
+tensorflow
+zmq

@@ -1,0 +1,6 @@
+setup.py
+prisma.egg-info/PKG-INFO
+prisma.egg-info/SOURCES.txt
+prisma.egg-info/dependency_links.txt
+prisma.egg-info/requires.txt
+prisma.egg-info/top_level.txt
